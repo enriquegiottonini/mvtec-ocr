@@ -1,1 +1,2 @@
-# mvtec-ocr
+
+source mvtec/bin/activate
